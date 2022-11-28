@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Jack Kazanjyan
+- ✝️ I am Reformed Christian, presuppositionalist, YEC, and web developer.
+- 🌱 I’m currently learning Python
